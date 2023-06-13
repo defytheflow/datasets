@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Harry Potter",
+    "house": "Gryffindor",
+    "patronus": "Stag",
+    "gender": "Male",
+    "birthdate": "1980-07-31",
+    "isPrefect": false
+  },
+  {
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "patronus": "Otter",
+    "gender": "Female",
+    "birthdate": "1979-09-19",
+    "isPrefect": true
+  },
+  {
+    "name": "Ron Weasley",
+    "house": "Gryffindor",
+    "patronus": "Jack Russell Terrier",
+    "gender": "Male",
+    "birthdate": "1980-03-01",
+    "isPrefect": true
+  },
+  {
+    "name": "Ginny Weasley",
+    "house": "Gryffindor",
+    "patronus": "Horse",
+    "gender": "Female",
+    "birthdate": "1981-08-11",
+    "isPrefect": false
+  },
+  {
+    "name": "Neville Longbottom",
+    "house": "Gryffindor",
+    "patronus": null,
+    "gender": "Male",
+    "birthdate": "1980-07-30",
+    "isPrefect": false
+  },
+  {
+    "name": "Parvati Patil",
+    "house": "Gryffindor",
+    "patronus": null,
+    "gender": "Female",
+    "birthdate": "1979-09-20",
+    "isPrefect": false
+  },
+  {
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "patronus": null,
+    "gender": "Male",
+    "birthdate": "1980-06-05",
+    "isPrefect": true
+  },
+  {
+    "name": "Vincent Crabbe",
+    "house": "Slytherin",
+    "patronus": null,
+    "gender": "Male",
+    "birthdate": null,
+    "isPrefect": false
+  },
+  {
+    "name": "Gregory Goyle",
+    "house": "Slytherin",
+    "patronus": null,
+    "gender": "Male",
+    "birthdate": null,
+    "isPrefect": false
+  },
+  {
+    "name": "Pansy Parkinson",
+    "house": "Slytherin",
+    "patronus": null,
+    "gender": "Female",
+    "birthdate": null,
+    "isPrefect": true
+  },
+  {
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "patronus": "Hare",
+    "gender": "Female",
+    "birthdate": "1981-02-13",
+    "isPrefect": false
+  },
+  {
+    "name": "Cho Chang",
+    "house": "Ravenclaw",
+    "patronus": "Swan",
+    "gender": "Female",
+    "birthdate": "1979-09-14",
+    "isPrefect": false
+  },
+  {
+    "name": "Padma Patil",
+    "house": "Ravenclaw",
+    "patronus": null,
+    "gender": "Female",
+    "birthdate": "1979-09-20",
+    "isPrefect": true
+  },
+  {
+    "name": "Cedric Diggory",
+    "house": "Hufflepuff",
+    "patronus": null,
+    "gender": "Male",
+    "birthdate": "1977-09-01",
+    "isPrefect": true
+  },
+  {
+    "name": "Ernie Macmillan",
+    "house": "Hufflepuff",
+    "patronus": null,
+    "gender": "Male",
+    "birthdate": null,
+    "isPrefect": true
+  },
+  {
+    "name": "Hannah Abbott",
+    "house": "Hufflepuff",
+    "patronus": null,
+    "gender": "Female",
+    "birthdate": null,
+    "isPrefect": true
+  }
+]
