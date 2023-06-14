@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Python",
+    "releaseYear": 1991,
+    "creators": ["Guido Van Rossum"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": false
+  },
+  {
+    "name": "JavaScript",
+    "releaseYear": 1995,
+    "creators": ["Brendan Eich"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": false
+  },
+  {
+    "name": "PHP",
+    "releaseYear": 1995,
+    "creators": ["Rasmus Lerdorf"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": false
+  },
+  {
+    "name": "Ruby",
+    "releaseYear": 1995,
+    "creators": ["Yukihiro Matsumoto"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": false
+  },
+  {
+    "name": "Java",
+    "releaseYear": 1995,
+    "creators": ["James Gosling"],
+    "paradigms": ["object-oriented", "functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "C",
+    "releaseYear": 1972,
+    "creators": ["Dennis Ritchie"],
+    "paradigms": ["procedural"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "C++",
+    "releaseYear": 1985,
+    "creators": ["Bjarne Stroustrup"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "Assembly",
+    "releaseYear": 1947,
+    "creators": ["procedural"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "Bash",
+    "releaseYear": 1989,
+    "creators": ["Brian Fox"],
+    "paradigms": ["procedural"],
+    "isStaticallyTyped": false
+  },
+  {
+    "name": "Lua",
+    "releaseYear": 1993,
+    "creators": ["Roberto Ierusalimschy"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": false
+  },
+  {
+    "name": "TypeScript",
+    "releaseYear": 2012,
+    "creators": ["Microsoft"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "Haskell",
+    "releaseYear": 1990,
+    "creators": [
+      "Lennart Augustsson",
+      "Paul Hudak",
+      "John Hughes",
+      "Simon Peyton Jones",
+      "John Launchbury",
+      "Erik Meijer",
+      "Philip Wadler"
+    ],
+    "paradigms": ["functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "OCaml",
+    "releaseYear": 1996,
+    "creators": ["Xavier Leroy", "Damien Doligez"],
+    "paradigms": ["object-oriented", "functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "Swift",
+    "releaseYear": 2014,
+    "creators": ["Chris Lattner", "Apple Inc."],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "Go",
+    "releaseYear": 2009,
+    "creators": ["Robert Griesemer", "Rob Pike", "Ken Thompson"],
+    "paradigms": ["procedural", "object-oriented"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "Rust",
+    "releaseYear": 2015,
+    "creators": ["Graydon Hoare"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "C#",
+    "releaseYear": 2000,
+    "creators": ["Anders Hejlsberg"],
+    "paradigms": ["object-oriented", "functional"],
+    "isStaticallyTyped": true
+  },
+  {
+    "name": "Kotlin",
+    "releaseYear": 2011,
+    "creators": ["JetBrains"],
+    "paradigms": ["procedural", "object-oriented", "functional"],
+    "isStaticallyTyped": true
+  }
+]
