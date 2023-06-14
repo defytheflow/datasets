@@ -1,164 +1,200 @@
 [
   {
+    "id": 1,
     "title": "The Fault in Our Stars",
     "releaseYear": 2014,
     "duration": 126,
     "genres": ["Drama", "Romance"],
     "director": "Josh Boone",
     "actors": ["Shailene Woodley", "Ansel Elgort", "Nat Wolff"],
+    "contentRating": "PG-13",
     "rating": 7.7
   },
   {
+    "id": 2,
     "title": "The Fast and the Furious",
     "releaseYear": 2001,
     "duration": 106,
     "genres": ["Acion", "Crime", "Thriller"],
     "director": "Rob Cohen",
     "actors": ["Vin Diesel", "Paul Walker", "Michelle Rodriguez"],
+    "contentRating": "PG-13",
     "rating": 6.8
   },
   {
+    "id": 3,
     "title": "That's My Boy",
     "releaseYear": 2012,
     "duration": 116,
     "genres": ["Comedy"],
     "director": "David Caspe",
     "actors": ["Adam Sandler", "Andy Samberg", "Leighton Meester"],
+    "contentRating": "R",
     "rating": 5.5
   },
   {
+    "id": 4,
     "title": "Never Back Down",
     "releaseYear": 2008,
     "duration": 113,
     "genres": ["Action", "Drama", "Sport"],
     "director": "Chris Hauty",
     "actors": ["Sean Faris", "Djimon Hounsou", "Amber Heard"],
+    "contentRating": "PG-13",
     "rating": 6.5
   },
   {
+    "id": 5,
     "title": "Extraction",
     "releaseYear": 2020,
     "duration": 116,
     "genres": ["Action", "Thriller"],
     "director": "Sam Hargrave",
     "actors": ["Chris Hemsworth", "Bryon Lerum", "Ryder Lerum"],
+    "contentRating": "R",
     "rating": 6.7
   },
   {
+    "id": 6,
     "title": "The Social Network",
     "releaseYear": 2010,
     "duration": 120,
     "genres": ["Biography", "Drama"],
     "director": "David Fincher",
     "actors": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+    "contentRating": "PG-13",
     "rating": 7.8
   },
   {
+    "id": 7,
     "title": "Twilight",
     "releaseYear": 2008,
     "duration": 122,
     "genres": ["Drama", "Fantasy", "Romance"],
     "director": "Catherine Hardwicke",
     "actors": ["Kristen Stewart", "Robert Pattinson", "Billy Burke"],
+    "contentRating": "PG-13",
     "rating": 5.3
   },
   {
+    "id": 8,
     "title": "Snatch",
     "releaseYear": 2000,
     "duration": 102,
     "genres": ["Comedy", "Crime"],
     "director": "Guy Ritchie",
     "actors": ["Jason Statham", "Brad Pitt", "Stephen Graham"],
+    "contentRating": "R",
     "rating": 8.2
   },
   {
+    "id": 9,
     "title": "King Arthur: Legend of the Sword",
     "releaseYear": 2017,
     "duration": 126,
     "genres": ["Action", "Adventure", "Drama"],
     "director": "Guy Ritchie",
     "actors": ["Charlie Hunnam", "Astrid Bergès-Frisbey", "Jude Law"],
+    "contentRating": "PG-13",
     "rating": 6.7
   },
   {
+    "id": 10,
     "title": "Peter Pan",
     "releaseYear": 2003,
     "duration": 113,
     "genres": ["Adventure", "Family", "Fantasy"],
     "director": "P.J. Hogan",
     "actors": ["Jeremy Sumpter", "Jason Isaacs", "Olivia Williams"],
+    "contentRating": "PG",
     "rating": 6.8
   },
   {
+    "id": 11,
     "title": "Legend",
     "releaseYear": 2015,
     "duration": 132,
     "genres": ["Biography", "Crime", "Drama"],
     "director": "Brian Helgeland",
     "actors": ["Tom Hardy", "Emily Browning", "Taron Egerton"],
+    "contentRating": "R",
     "rating": 6.9
   },
   {
+    "id": 12,
     "title": "The Wolf of Wall Street",
     "releaseYear": 2013,
     "duration": 180,
     "genres": ["Biography", "Comedy", "Crime"],
     "director": "Martin Scorsese",
     "actors": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
+    "contentRating": "R",
     "rating": 8.2
   },
   {
+    "id": 13,
     "title": "22 Jump Street",
     "releaseYear": 2014,
     "duration": 112,
     "genres": ["Action", "Comedy", "Crime"],
     "director": "Phil Lord",
     "actors": ["Channing Tatum", "Jonah Hill", "Ice Cube"],
+    "contentRating": "R",
     "rating": 7.0
   },
   {
+    "id": 14,
     "title": "8 Mile",
     "releaseYear": 2002,
     "duration": 110,
     "genres": ["Drama", "Music"],
     "director": "Curtis Hanson",
     "actors": ["Eminem", "Brittany Murphy", "Kim Basinger"],
+    "contentRating": "R",
     "rating": 7.2
   },
   {
+    "id": 15,
     "title": "Whiplash",
     "releaseYear": 2014,
     "duration": 106,
     "genres": ["Drama", "Music"],
     "director": "Damien Chazelle",
     "actors": ["Miles Teller", "J.K. Simmons", "Melissa Benoist"],
+    "contentRating": "R",
     "rating": 8.5
   },
   {
+    "id": 16,
     "title": "How to Train Your Dragon",
     "releaseYear": 2010,
     "duration": 98,
     "genres": ["Animation", "Action", "Adventure"],
     "director": "Dean DeBlois",
     "actors": ["Jay Baruchel", "Gerard Butler", "Christopher Mintz-Plasse"],
+    "contentRating": "PG",
     "rating": 8.1
   },
   {
+    "id": 17,
     "title": "Southpaw",
     "releaseYear": 2015,
     "duration": 124,
     "genres": ["Action", "Crime", "Drama"],
     "director": "Antoine Fuqua",
     "actors": ["Jake Gyllenhaal", "Rachel McAdams", "Oona Laurence"],
+    "contentRating": "R",
     "rating": 7.3
   },
   {
+    "id": 18,
     "title": "Tres metros sobre el cielo",
     "releaseYear": 2010,
     "duration": 118,
     "genres": ["Action", "Drama", "Romance"],
     "director": "Fernando González Molina",
     "actors": ["Mario Casas", "María Valverde", "Álvaro Cervantes"],
+    "contentRating": null,
     "rating": 6.8
   }
 ]
